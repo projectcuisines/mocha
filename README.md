@@ -1,4 +1,3 @@
-# mocha
 
 <p align="center">
 <img src="MOCHA_logo.png" width="600">
@@ -10,4 +9,4 @@ MOdelling the Circulation of Hot exoplanet Atmospheres
 </h1>
 
 
-Script repository for MOCHA, a Model Intercomparison Project (MIP) for 3D models of Hot and Ultra Hot Jupiters (HJs and UHJs).
+Script repository for MOCHA, a Model Intercomparison Project (MIP) for 3D atmospheric circulation models of Hot and Ultra Hot Jupiters (HJs and UHJs).
